@@ -1,5 +1,5 @@
 # CleanCode
-My presentation about Clean Code for SE
+My presentation about Clean Code for SE.
 
 The BadEmployee class shows a class which isn't formatted and is no example of Clean Code.
 There are useless comments, no empty lines for grouping, a lot of inline code which makes the class very dirty.
