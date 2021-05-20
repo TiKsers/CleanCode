@@ -7,3 +7,6 @@ There are useless comments, no empty lines for grouping, a lot of inline code wh
 The GoodEmployee class a class with the Priciples of Clean Code.
 It uses the Single Responsibility Principle (SRP) by being a data class.
 It has good formatting and is readable.
+
+I used a tool called codify, which detects code smnells in your project by adding your repository to it.
+An example can be shown by clicking on the CodifyExample.png.
