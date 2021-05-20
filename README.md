@@ -8,5 +8,5 @@ The GoodEmployee class is a class which uses the Priciples of Clean Code. It is 
 It uses the Single Responsibility Principle (SRP) by being a data class.
 It has good formatting and is readable.
 
-I used a tool called codify, which detects code smnells in your project by adding your repository to it.
+I used a tool called codify, which detects code smells in your project by adding your repository to it.
 An example can be shown by clicking on the CodifyExample.png.
